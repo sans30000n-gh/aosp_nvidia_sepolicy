@@ -1,0 +1,1 @@
+type sysfs_efivar, fs_type, sysfs_type;
